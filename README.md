@@ -23,4 +23,4 @@ pip install -r requirements.txt
 <img width="781" alt="Screen Shot 2022-03-25 at 11 47 39 AM" src="https://user-images.githubusercontent.com/75612147/160077343-ee5f351d-d2f4-44b8-8d32-9f82eff5a0f4.png">
 
 ## WARNING
-Setting time delay to 0 creates an insanely huge amounts of clicks in a second. This may cause your computer to crash. Use at your own risk.
+Setting time delay to 0 creates an insanely huge amounts of clicks in a second. This may cause your computer to crash. Use at your own risk!
