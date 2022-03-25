@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ## Usage
 - Set the *key* variable to any hotkey you want to use to activate the autoclicker
 - The time.sleep() statement denotes the delay between each click. Set it to 0 for maximum performance (insanely fast, may crash computer), or values like 0.05 or 0.03 for more controlled clicking. You can experiment with this to find what suits your computer.
-- To run, run the program as administrator on windows. For MacOS, type sudo python3 main.py in your terminal.
+- To run, run the program as administrator on windows. For MacOS, type sudo python3 main.py in your terminal. Press ctrl + c in terminal to end it.
 
 ## Screenshots
 #### Performance with time delay at 0:
