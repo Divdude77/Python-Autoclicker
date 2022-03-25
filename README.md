@@ -1,5 +1,5 @@
 # Python-Autoclicker
-A simple autoclicker made with Python using threading
+A simple yet efficient autoclicker made with Python using threading
 
 ## Setup
 After downloading *main.py* and *requirements.txt*, in your terminal, execute:
